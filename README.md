@@ -7,22 +7,22 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/" width="50px"></picture> **自己紹介**
+## <picture><img src="https://github.com/0xAbdulKhalid/" width="50px"></picture> **Profile**
 
 <picture>
   <img align="right" src="https://github.com/" width="250px">
 </picture>
 
 * Web制作とアートの両方に情熱を注ぐデザイナー・クリエイター
-* 主にHTML / CSS / JavaScript / jQueryを使って制作
-* 抽象画家としても活動し、Webサイト、Instagramで作品を発信中
+* コード：HTML / CSS / JavaScript / jQuery
+* 抽象画家として活動し、Webサイト、Instagramで作品を発信中
 * 日々、新しい表現方法や技術を学び、探求を続けています
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>スキル</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skill</b>
 
 <br>
 
@@ -59,7 +59,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub スタッツ </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats</b>
 
 <br>
 
@@ -110,9 +110,9 @@
 
 <br>
 
-クレジット: 使用テンプレート [Abdul Khalid](https://github.com/0xabdulkhalid)
+クレジット: 使用テンプレート [Durgesh Samariya](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/commits?author=codinghemp)
 
 <br>
 
-最終更新日：2025年5月27日
+最終更新日：2025年6月9日
 
