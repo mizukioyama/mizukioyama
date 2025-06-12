@@ -13,7 +13,7 @@
   <img align="right" src="https://github.com/" width="250px">
 </picture>
 
-* Web制作とアートの両方に情熱を注ぐデザイナー・クリエイター
+* Web制作とアートを手掛けるクリエイター
 * コード：HTML / CSS / JavaScript / jQuery
 * 抽象画家として活動し、Webサイト、Instagramで作品を発信中
 * 日々、新しい表現方法や技術を学び、探求を続けています
